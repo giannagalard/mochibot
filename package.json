@@ -1,0 +1,13 @@
+{
+    "name": "mochibot",
+    "version": "1.0.0",
+    "description": "mochis music bot",
+    "main": "play.js",
+    "author": "gianna aka mochi",
+    "dependencies": {
+        "discord.js": "^13.1.0",
+        "dotenv": "^10.0.0",
+        "yt-search": "^2.10.1",
+        "ytdl-core": "^4.9.1"
+    }
+}
